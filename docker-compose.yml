@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:18
+    container_name: postgres-taskmaster
+    environment:
+      POSTGRES_PASSWORD: taskmast33r
+      POSTGRES_USER: taskmanager_admin
+      POSTGRES_DB: taskmaster_db
+    ports:
+      - "5436:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/18/data
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
