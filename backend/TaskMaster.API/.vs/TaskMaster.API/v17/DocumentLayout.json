@@ -54,8 +54,7 @@
               "RelativeToolTip": "DTOs\\TaskResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:56:31.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T18:56:31.333Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "DTOs\\UpdateTaskDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:55:01.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T18:55:01.638Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "DTOs\\CreateTaskDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T18:52:50.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T18:52:50.243Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Controllers\\TasksController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAkwG0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T13:15:31.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T13:15:31.702Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "Models\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T13:07:02.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T13:07:02.426Z"
             },
             {
               "$type": "Document",
@@ -119,8 +114,7 @@
               "RelativeToolTip": "Models\\Task.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAuwC8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T13:05:04.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T13:05:04.482Z"
             },
             {
               "$type": "Document",
@@ -132,8 +126,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-13T13:03:30.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T13:03:30.309Z"
             },
             {
               "$type": "Document",
@@ -143,7 +136,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\CodeineSolm\\Code\\Projects\\taskmaster\\backend\\TaskMaster.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAA0AAAA",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T13:00:40.618Z",
               "EditorCaption": ""

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskMaster.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3dabc37c338d05b4cbb22a27f2eb747f1b72e6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9d5848777571be17dde936fe437fc86879637dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskMaster.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskMaster.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
